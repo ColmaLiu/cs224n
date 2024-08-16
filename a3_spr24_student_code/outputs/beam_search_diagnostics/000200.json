@@ -1,0 +1,236 @@
+{
+    "example_source": [
+        "▁我还",
+        "澄清",
+        "了",
+        "在该",
+        "会议上",
+        "提出的",
+        "若干",
+        "事项",
+        "。"
+    ],
+    "example_target": [
+        "<s>",
+        "▁i",
+        "▁was",
+        "▁able",
+        "▁to",
+        "▁provide",
+        "▁clarification",
+        "▁on",
+        "▁some",
+        "▁of",
+        "▁the",
+        "▁matters",
+        "▁which",
+        "▁were",
+        "▁raised",
+        "▁at",
+        "▁that",
+        "▁meeting",
+        ".",
+        "</s>"
+    ],
+    "hypotheses": [
+        {
+            "hypothesis": [
+                "▁it",
+                "▁is",
+                "▁also",
+                "▁that",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁council",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -35.22233963012695
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁is",
+                "▁also",
+                "▁that",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁council",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁council",
+                "."
+            ],
+            "score": -36.75217056274414
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁is",
+                "▁is",
+                "▁that",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁council",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁council",
+                "."
+            ],
+            "score": -37.10859680175781
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁is",
+                "▁that",
+                "▁that",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁council",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁council",
+                "."
+            ],
+            "score": -37.11842727661133
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁is",
+                "▁also",
+                "▁that",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁council",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁states",
+                "."
+            ],
+            "score": -37.15479278564453
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁is",
+                "▁is",
+                "▁that",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁council",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁states",
+                "."
+            ],
+            "score": -37.465789794921875
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁is",
+                "▁also",
+                "▁that",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁council",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁nations",
+                "."
+            ],
+            "score": -37.53886795043945
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁is",
+                "▁that",
+                "▁that",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁council",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁states",
+                "."
+            ],
+            "score": -37.60560989379883
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁is",
+                "▁also",
+                "▁that",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁council",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁council",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -50.594703674316406
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁is",
+                "▁also",
+                "▁that",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁council",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁council",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁states",
+                "."
+            ],
+            "score": -52.66739273071289
+        }
+    ],
+    "diagnostic_info": "eyJ0IjogIjIwMjQtMDctMThUMDY6MzU6NDYuMTY3ODI2IiwgImgiOiAiTEFQVE9QLVFVQTNOQ1AzIiwgInUiOiAiXHU1MjE4XHU5NmU4XHU4YmZhIn0="
+}

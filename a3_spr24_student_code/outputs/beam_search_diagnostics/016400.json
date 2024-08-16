@@ -1,0 +1,252 @@
+{
+    "example_source": [
+        "▁我还",
+        "澄清",
+        "了",
+        "在该",
+        "会议上",
+        "提出的",
+        "若干",
+        "事项",
+        "。"
+    ],
+    "example_target": [
+        "<s>",
+        "▁i",
+        "▁was",
+        "▁able",
+        "▁to",
+        "▁provide",
+        "▁clarification",
+        "▁on",
+        "▁some",
+        "▁of",
+        "▁the",
+        "▁matters",
+        "▁which",
+        "▁were",
+        "▁raised",
+        "▁at",
+        "▁that",
+        "▁meeting",
+        ".",
+        "</s>"
+    ],
+    "hypotheses": [
+        {
+            "hypothesis": [
+                "▁i",
+                "▁am",
+                "▁also",
+                "▁referring",
+                "▁to",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁raised",
+                "▁by",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -10.410072326660156
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁am",
+                "▁also",
+                "▁referring",
+                "▁to",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁raised",
+                "▁at",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -11.062146186828613
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁am",
+                "▁also",
+                "▁referring",
+                "▁to",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁made",
+                "▁by",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -11.247328758239746
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁am",
+                "▁also",
+                "▁referring",
+                "▁to",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁raised",
+                "▁by",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -11.612526893615723
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁am",
+                "▁also",
+                "▁referring",
+                "▁to",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁made",
+                "▁at",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -11.652164459228516
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁am",
+                "▁also",
+                "▁referring",
+                "▁to",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁that",
+                "▁have",
+                "▁been",
+                "▁made",
+                "▁at",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -13.497382164001465
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁am",
+                "▁also",
+                "▁referring",
+                "▁to",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁that",
+                "▁have",
+                "▁been",
+                "▁made",
+                "▁at",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -13.747639656066895
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁am",
+                "▁also",
+                "▁referring",
+                "▁to",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁made",
+                "▁by",
+                "▁the",
+                "▁conference",
+                "▁on",
+                "▁the",
+                "▁part",
+                "▁of",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -16.11170196533203
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁am",
+                "▁also",
+                "▁referring",
+                "▁to",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁made",
+                "▁by",
+                "▁the",
+                "▁conference",
+                "▁on",
+                "▁the",
+                "▁part",
+                "▁of",
+                "▁this",
+                "▁meeting",
+                "."
+            ],
+            "score": -16.85280418395996
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁am",
+                "▁also",
+                "▁referring",
+                "▁to",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁made",
+                "▁by",
+                "▁the",
+                "▁conference",
+                "▁on",
+                "▁the",
+                "▁part",
+                "▁of",
+                "▁this",
+                "▁conference",
+                "."
+            ],
+            "score": -16.858123779296875
+        }
+    ],
+    "diagnostic_info": "eyJ0IjogIjIwMjQtMDctMThUMDc6MDM6NTEuMTQwNTMwIiwgImgiOiAiTEFQVE9QLVFVQTNOQ1AzIiwgInUiOiAiXHU1MjE4XHU5NmU4XHU4YmZhIn0="
+}
